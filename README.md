@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dudu-av
 - 👀 I’m interested in frontend, robotics, data science and AI.
-- 🌱 I’m currently learning Typescript, Elm, Bash and Svelte
+- 🌱 I’m currently learning Typescript, Elm and Bash.
 - 📫 You can reach me by my e-mail: edu.avila.vilar@gmail.com
 
 <!---
