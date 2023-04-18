@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dudu-av
-- 👀 I’m interested in web development, robotics, data science and AI.
-- 🌱 I’m currently learning Solid, Scala and Elixir, these last two for the #12in23 challange by https://exercism.org.
+- 👀 I’m interested in web development, data science and AI.
+- 🌱 I’m currently learning Solid, Elixir, and (Functional) Python.
 - 📫 You can reach me by my e-mail: edu.avila.vilar@gmail.com
 
 <!---
