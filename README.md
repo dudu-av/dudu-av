@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dudu-av
 - 👀 I’m interested in web development, data science and AI.
 - 🌱 I’m currently learning React, Django and Databases.
-- 📫 You can reach me by my e-mail: edu.avila.vilar@gmail.com
+- 📫 You can reach me by e-mail: edu.avila.vilar@gmail.com
 
 <!---
 dudu-av/dudu-av is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
