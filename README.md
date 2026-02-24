@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dudu-av
-- 👀 I’m interested in web development, data science and AI.
-- 🌱 I’m currently using React, FastAPI, PostgreSQL, MongoDB and Flutter in my projects.
+- 👀 I’m interested in web development, data science and, of course, AI.
+- 🌱 I’m currently using Python (mainly), React, any DB, and lots of agents in my projects.
 - 📫 You can reach me by e-mail: edu.avila.vilar@gmail.com
 
 <!---
