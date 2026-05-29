@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dudu-av
-- 👀 I’m interested in web development, data science and, of course, AI.
-- 🌱 I’m currently using Python (mainly), React, any DB, and lots of agents in my projects.
+- 👀 I’m interested in web development, data science and reponsible usege of AI.
+- 🌱 I’m currently using Python (mainly), React, any DB.
 - 📫 You can reach me by e-mail: edu.avila.vilar@gmail.com
 
 <!---
